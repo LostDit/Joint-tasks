@@ -1,19 +1,18 @@
 # Задания с литкода
-![48c6ecad59ffbf8eebfc1a9b122666ac](https://github.com/user-attachments/assets/fa60b7a5-a578-496d-abad-5b4f85b40024)
+![efecbca170b8bb982fabfd5fc49c32f1](https://github.com/user-attachments/assets/35e17b7b-5f12-4626-8d2b-e38af9bea3df)
+
 > [!NOTE]
 > Если не хотите писать доп код прописывайте комментарии в действующем, что хотели бы изменить, который в основной ветке.
 
+# Первое задание оно чисто как тестовое так что вот:
+
+## [Плюс Один](https://leetcode.com/problems/plus-one/description/)
+- [x] [Ссылка на другую ветку Владоса](https://github.com/LostDit/Joint-tasks/blob/prikoli/LeetCode/One%20plus/One%20plus.cpp)
+- [ ] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
+- [ ] Дедлайн для меня до 15 Ноября :tada:
+
 > [!IMPORTANT]
 > Всё же хотелось бы увидеть фидбек по всей идее
-
-
-# 1)Первое задание оно чисто как тестовое так что вот:
-
-[Плюс Один](https://leetcode.com/problems/plus-one/description/).
-- [ ] [Ссылка на другую ветку Владоса](https://github.com/LostDit/Joint-tasks/blob/prikoli/LeetCode/One%20plus/One%20plus.cpp)
-- [ ] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
-- [ ] Победа над первым заданием :tada:
-
 
 # Вот тут можно найти все инструкции чтобы юзать гитхаб:
 
