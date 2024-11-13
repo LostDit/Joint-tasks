@@ -7,7 +7,6 @@
 # *Первое задание оно чисто как тестовое так что вот:*
 
 ## [Плюс Один](https://leetcode.com/problems/plus-one/description/)
-- [x] [Ссылка на другую ветку Владоса](https://github.com/LostDit/Joint-tasks/blob/prikoli/LeetCode/One%20plus/One%20plus.cpp)
 - [ ] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
 - [ ] Дедлайн для меня до 15 Ноября :tada:
 
