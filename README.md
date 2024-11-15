@@ -7,8 +7,12 @@
 # *Первое задание оно чисто как тестовое так что вот:*
 
 ## [Плюс Один](https://leetcode.com/problems/plus-one/description/)
-- [ ] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
-- [ ] Дедлайн для меня до 15 Ноября :tada:
+- [x] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
+- [x] Дедлайн для меня до 15 Ноября, по факту уже выполнил :tada:
+## [От римского к целому числу](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=string&difficulty=EASY)
+- [x] [Ссылка на основную ветку кода прикреплю как сделаю решение]
+- [ ] Дедлайн для меня до 18 Ноября :tada:
+
 
 > [!IMPORTANT]
 > Всё же хотелось бы увидеть фидбек по всей идее
