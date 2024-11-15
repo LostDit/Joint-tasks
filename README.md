@@ -4,7 +4,7 @@
 > [!NOTE]
 > Если не хотите писать доп код прописывайте комментарии в действующем, что хотели бы изменить, который в основной ветке.
 
-# *Первое задание оно чисто как тестовое так что вот:*
+# *Задания:*
 
 ## [Плюс Один](https://leetcode.com/problems/plus-one/description/)
 - [x] [Ссылка на основную ветку кода](https://github.com/LostDit/Joint-tasks/blob/main/LeetCode/One%20plus/One%20plus.cpp)
