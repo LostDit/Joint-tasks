@@ -11,7 +11,7 @@
 - [x] Дедлайн для меня до 15 Ноября, по факту уже выполнил :tada:
 ## [От римского к целому числу](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=string&difficulty=EASY)
 - [x] [Ссылка на основную ветку кода прикреплю как сделаю решение](https://github.com/LostDit/Joint-tasks/blob/main/Roman%20to%20Integer/Roman%20to%20Integer.cpp)
-- [ ] Дедлайн для меня до 18 Ноября :tada:
+- [ ] Дедлайн для меня фиг знает когда ибо всё пошло не по плану, но я помню о тебе и сделаю тебя :tada:
 
 
 > [!IMPORTANT]
